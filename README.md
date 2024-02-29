@@ -2,7 +2,7 @@
 
 ## Author : Cognitive Classs AI
 
-### Mentee assignment from IBM Avance AI @ Infinite Learning Course completion of Build a Chatbot to Analyze PDF Document Using LLM from CognitiveClass.ai
+### Mentee assignment from IBM Avance AI @ Infinite Learning Course completion of Text Sentiment Analysis Using Caikit and Hugging Face from CognitiveClass.ai
 
 ## Mentee Info
 ### Nama : Dany Setiawan Maulana Azis
